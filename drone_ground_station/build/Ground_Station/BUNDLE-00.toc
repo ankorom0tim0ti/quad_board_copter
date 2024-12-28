@@ -1,0 +1,3 @@
+([('Ground_Station',
+   '/Users/arimuratoma/codes/drone_work/drone_ground_station/dist/Ground_Station',
+   'EXECUTABLE')],)
